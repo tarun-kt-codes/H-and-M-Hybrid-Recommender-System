@@ -102,33 +102,5 @@ The entire system is deployed through a Streamlit web app offering an intuitive 
 
 ![hybrid](./Images/hybrid.png)
 
-### 🎁 Sample Recommendations Display
 
-![recommendations -eg](./Images/output.png)
-
----
-
-## 📁 Project Structure
-
-H-and-M-Hybrid-Recommender-System/
-│
-├── Data/                            # Compressed and intermediate data files
-│   ├── articles.csv.zip
-│   ├── out.zip
-│   └── out_content.zip
-│
-├── Images/                          # Images used in README and Streamlit UI
-│   └── [various PNG images]
-│
-├── Model/                           # Notebooks and saved models
-│   ├── collaborative_model.sav
-│   ├── H&M-CollaborativeFilteringModeling.ipynb
-│   └── H&M-ContentBasedFilteringModeling.ipynb
-│
-├── .gitignore                       # Ignore rules for git
-├── EDA and Data Cleaning.ipynb      # Data exploration and preprocessing
-├── FinalDataPreparation.ipynb       # Final preprocessing and formatting
-├── README.md                        # Project overview (you're here!)
-├── app.py                           # Streamlit app
-└── requirements.txt                 # Required packages
-
+NOTE : To run the project paste the complete dataset from kaggle in the Data folder
