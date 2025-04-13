@@ -104,7 +104,7 @@ The entire system is deployed through a Streamlit web app offering an intuitive 
 
 ### 🎁 Sample Recommendations Display
 
-![recommendations -eg](./Images/recommendations -eg.png)
+![recommendations -eg](./Images/output.png)
 
 ---
 
