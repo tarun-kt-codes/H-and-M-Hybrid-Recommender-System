@@ -62,7 +62,7 @@ For implementation details, refer to the [Collaborative Filtering Notebook](./H&
 - Recommends items similar to a given article
 - Uses cosine similarity on selected metadata features
 
-For implementation details, refer to the [Content-Based Filtering Notebook](./H&M-ContentFilteringModeling.ipynb).
+For implementation details, refer to the [Content-Based Filtering Notebook](./H&M-ContentBasedFilteringModeling.ipynb).
 
 ![CB_example](./Images/CB_example.png)
 
