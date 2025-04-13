@@ -1,0 +1,25 @@
+# Core libraries
+pandas
+numpy==1.26.4
+
+# Web app framework
+streamlit
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+surprise
+
+# Image processing
+Pillow
+
+# Utility
+ipykernel
+notebook
+jupyterlab
+
+# Optional: progress bars or enhancements used in notebooks
+tqdm

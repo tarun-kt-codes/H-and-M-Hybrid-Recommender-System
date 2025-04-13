@@ -1,0 +1,7 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignoring large data files - Copy them from the kaggle dataset if needed
+Data/df_customer.csv
+Data/h-and-m-personalized-fashion-recommendations
+
