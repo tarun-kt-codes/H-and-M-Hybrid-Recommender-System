@@ -52,7 +52,7 @@ It includes:
 - Uses Surprise's SVD for matrix factorization
 - Suitable for users with historical data
 
-For implementation details, refer to the [Collaborative Filtering Notebook](./H&M-CollaborativeFilteringModeling.ipynb).
+For implementation details, refer to the [Collaborative Filtering Notebook](.H&M-CollaborativeFilteringModeling.ipynb).
 
 ![CF_example](./Images/CF_example.png)
 
@@ -62,7 +62,7 @@ For implementation details, refer to the [Collaborative Filtering Notebook](./H&
 - Recommends items similar to a given article
 - Uses cosine similarity on selected metadata features
 
-For implementation details, refer to the [Content-Based Filtering Notebook](./H&M-ContentFilteringModeling.ipynb).
+For implementation details, refer to the [Content-Based Filtering Notebook](.H&M-ContentFilteringModeling.ipynb).
 
 ![CB_example](./Images/CB_example.png)
 
