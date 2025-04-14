@@ -13,7 +13,7 @@ import math
 st.set_page_config(page_title="H&M Recommender System", layout="wide")
 
 # Header
-header_image = Image.open('Images/h&mBanner.jpeg')
+header_image = Image.open('Images/MainBanner.jpeg')
 st.image(header_image)
 
 # Creating sidebar comments
