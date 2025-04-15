@@ -102,5 +102,9 @@ The entire system is deployed through a Streamlit web app offering an intuitive 
 
 ![hybrid](./Images/hybrid.png)
 
+### Sample Outpu
+
+![hybrid](./Images/output.png)
+
 
 NOTE : To run the project paste the complete dataset from kaggle in the Data folder
