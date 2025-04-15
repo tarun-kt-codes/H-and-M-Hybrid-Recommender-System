@@ -102,7 +102,7 @@ The entire system is deployed through a Streamlit web app offering an intuitive 
 
 ![hybrid](./Images/hybrid.png)
 
-### Sample Outpu
+### Sample Output
 
 ![hybrid](./Images/output.png)
 
