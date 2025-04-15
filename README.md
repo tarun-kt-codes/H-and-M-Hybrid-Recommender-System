@@ -1,4 +1,4 @@
-![banner](./Images/h&mBanner.jpeg)
+![banner](./Images/MainBanner.jpeg)
 
 # 👗 H&M Personalized Fashion Recommendation System
 
